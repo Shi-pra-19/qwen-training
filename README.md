@@ -18,6 +18,7 @@ The goal of this project is to classify student math reasoning explanations into
 - [Kaggle Notebook Link](https://www.kaggle.com/code/mehedi457/unsloth-qwen2-5-math-1-5b-training)
 - [Kaggle Notebook Link](https://www.kaggle.com/code/aleaiest/lb-0-945-qwen2-5-32b-gptq)
 - [Kaggle Notebook Link](https://www.kaggle.com/code/cdeotte/gemma2-9b-it-cv-0-945)
+- [Kaggle Notebook Link](https://www.kaggle.com/code/xbar19/jigsaw-llama3-1-8b-instruct-training)
   
   
 ## Training Instructions
