@@ -14,6 +14,12 @@ The goal of this project is to classify student math reasoning explanations into
 - **Task**: Multi-class classification (65 target classes).
 - **Frameworks**: PyTorch, Transformers, TRL (`SFTTrainer`), and PEFT.
 
+## References
+- [Kaggle Notebook Link](https://www.kaggle.com/code/mehedi457/unsloth-qwen2-5-math-1-5b-training)
+- [Kaggle Notebook Link](https://www.kaggle.com/code/aleaiest/lb-0-945-qwen2-5-32b-gptq)
+- [Kaggle Notebook Link](https://www.kaggle.com/code/cdeotte/gemma2-9b-it-cv-0-945)
+  
+  
 ## Training Instructions
 To train the model as intended for the competition solution:
 1. **Data Path**: Change the dataset path in the notebook or uncomment the specified Kaggle path (`/kaggle/input/...`).
